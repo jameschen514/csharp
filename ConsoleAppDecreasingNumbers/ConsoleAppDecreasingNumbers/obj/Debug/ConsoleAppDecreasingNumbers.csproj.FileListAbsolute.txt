@@ -1,0 +1,7 @@
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\bin\Debug\ConsoleAppDecreasingNumbers.exe.config
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\bin\Debug\ConsoleAppDecreasingNumbers.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\bin\Debug\ConsoleAppDecreasingNumbers.pdb
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\obj\Debug\ConsoleAppDecreasingNumbers.csprojResolveAssemblyReference.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\obj\Debug\ConsoleAppDecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\obj\Debug\ConsoleAppDecreasingNumbers.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDecreasingNumbers\ConsoleAppDecreasingNumbers\obj\Debug\ConsoleAppDecreasingNumbers.pdb

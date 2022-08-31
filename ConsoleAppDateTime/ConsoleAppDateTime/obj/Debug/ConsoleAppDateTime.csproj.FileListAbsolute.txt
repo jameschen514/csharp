@@ -1,0 +1,7 @@
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.exe.config
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\bin\Debug\ConsoleAppDateTime.pdb
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.csprojResolveAssemblyReference.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.csproj.CoreCompileInputs.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppDateTime\ConsoleAppDateTime\obj\Debug\ConsoleAppDateTime.pdb

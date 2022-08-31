@@ -1,0 +1,7 @@
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\bin\Debug\ConsoleAppLargestGain.exe.config
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\bin\Debug\ConsoleAppLargestGain.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\bin\Debug\ConsoleAppLargestGain.pdb
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\obj\Debug\ConsoleAppLargestGain.csprojResolveAssemblyReference.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\obj\Debug\ConsoleAppLargestGain.csproj.CoreCompileInputs.cache
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\obj\Debug\ConsoleAppLargestGain.exe
+C:\!Projects!\BlizzardOBucksMachine\ConsoleAppLargestGain\ConsoleAppLargestGain\obj\Debug\ConsoleAppLargestGain.pdb
